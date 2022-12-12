@@ -1,19 +1,19 @@
-# Cloudflare Docs
+#  BHS app to landing page via Cloudflare docs
 
-**[View the docs →](https://developers.cloudflare.com/)**
+**[View the docs →](https://bhs.my.id/)**
 
-[Contribute to the docs](https://github.com/cloudflare/cloudflare-docs/blob/production/CONTRIBUTING.md)
+[Contribute to the docs](https://github.com/alyen01/alyen01/edit/alycloud/README.md)
 
 ## Setup
 
-You must have [Hugo](https://gohugo.io) installed on your system and available in your `$PATH` as a global binary. Most operating systems are supported – follow the relevant [Install Hugo](https://gohugo.io/getting-started/installing) instructions for your operating system guides to get started.
+You must have [B.H.S](https://bhs.my.id/app) installed on your system and available in your `$PATH` as a global binary. Most operating systems are supported – follow the relevant [Install BHS](https://bhs.my.id/getting-started/installing) instructions for your operating system guides to get started.
 
-> **Important:** This project is built with version `0.92.2+extended` but `0.92.x` is the minimum required version. You may (probably) use a newer version of Hugo, but will be subject to any Hugo changes.
+> **Important:** This project is built with version `0.92.2+extended` but `0.92.x` is the minimum required version. You may (probably) use a newer version of BHS. but will be subject to any BHS changes.
 
-You must also have a recent version of Node.js (14+) installed. You may use [Volta](https://github.com/volta-cli/volta), a Node version manager, to install the latest version of Node and `npm`, which is a package manager that is included with `node`'s installation.
+You must also have a recent version of Node.js (14+) installed. You may use [Voltabhs](https://github.com/voltabhs-cli/volta), a Node version manager, to install the latest version of Node and `npm`, which is a package manager that is included with `node`'s installation.
 
 ```sh
-$ curl https://get.volta.sh | bash
+$ curl https://get.bhs.my.id| bash
 $ volta install node
 ```
 
